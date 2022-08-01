@@ -1,6 +1,6 @@
 <!-- cspell:word bindata -->
 
-# RestoreAssets
+# RestoreAssets [![CI](https://github.com/ChromeTemp/RestoreAssets/actions/workflows/CI.yml/badge.svg)](https://github.com/ChromeTemp/RestoreAssets/actions/workflows/CI.yml)
 
 > A simple library to restore Go assets from "embed" module
 
